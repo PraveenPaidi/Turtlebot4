@@ -19,13 +19,23 @@ https://github.com/PraveenPaidi/Turtlebot4/assets/120610889/91d75fa1-889a-44aa-a
 
 2. Edge filters:
 
-   Applied sobel and canny filters to get the edges in video frames.
+   Applied sharpening, blurring, sobel, canny filters to get the edges in video frames.
    
 ![last blur](https://github.com/PraveenPaidi/Turtlebot4/assets/120610889/05123e98-9adf-468d-9df6-0d5a42000b3c)
 ![last sharpened](https://github.com/PraveenPaidi/Turtlebot4/assets/120610889/688c587e-2caa-4a9e-8519-86863eca0964)
 ![last original](https://github.com/PraveenPaidi/Turtlebot4/assets/120610889/8bfd6190-c9d9-4c53-966b-45f86d7d603e)
 ![last gaussian blur](https://github.com/PraveenPaidi/Turtlebot4/assets/120610889/4dad22aa-34ad-4d46-85fa-e14c76341cc6)
 ![last canny](https://github.com/PraveenPaidi/Turtlebot4/assets/120610889/e91a41d8-432f-4e94-abe1-77315a5ef52b)
+
+
+3. Application of FIR and Kalman filters on unfiltered data.
+
+Grabbing the data from yaml file and plotting the data along iwth filters.
+
+![Screenshot from 2023-04-06 06-22-00](https://github.com/PraveenPaidi/Turtlebot4/assets/1![Uploading Screenshot 2023-08-18 021300.png…]()
+20610889/8a471bb4-b349-48fd-b503-30e8e193be31)
+
+<img width="793" alt="image" src="https://github.com/PraveenPaidi/Turtlebot4/assets/120610889/f478c565-fb87-4499-8a20-15267e05c370">
 
 
    
