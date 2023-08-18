@@ -32,10 +32,12 @@ https://github.com/PraveenPaidi/Turtlebot4/assets/120610889/91d75fa1-889a-44aa-a
 
 Grabbing the data from yaml file and plotting the data along iwth filters.
 
-![Screenshot from 2023-04-06 06-22-00](https://github.com/PraveenPaidi/Turtlebot4/assets/1![Uploading Screenshot 2023-08-18 021300.png…]()
-20610889/8a471bb4-b349-48fd-b503-30e8e193be31)
 
-<img width="793" alt="image" src="https://github.com/PraveenPaidi/Turtlebot4/assets/120610889/f478c565-fb87-4499-8a20-15267e05c370">
+<img width="839" alt="Screenshot 2023-08-18 021300" src="https://github.com/PraveenPaidi/Turtlebot4/assets/120610889/cc990764-9bab-47cf-a69f-0d32d6dad7ab">
+
+![Screenshot from 2023-04-06 06-22-00](https://github.com/PraveenPaidi/Turtlebot4/assets/120610889/52bf64d8-ef9d-4ff4-9f17-ba4005fb82ea)
+
+
 
 
    
